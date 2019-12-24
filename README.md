@@ -1,3 +1,61 @@
+title: 'Team_1.md'
+disqus: md
+---
+
+Central Air Conditioning System 
+===
+###### tags: `2019` `NTUT_CSIE` `SRS` `project` 
+
+Team information
+---
+
+[TOC]
+
+Problem statement
+---
+
+
+Decompose the problem into subproblems
+---
+
+
+Analysis (e.g., context diagram, problem frame diagrams, shared phenomenon, frame concern, state machine diagram, model domain, etc.)
+---
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+Note left of Alice: Alice responds
+Alice->Bob: Where have you been?
+```
+
+
+Recombine the subproblems
+---
+```mermaid
+gantt
+    title A Gantt Diagram
+
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    anther task      : 24d
+```
+Problem dependency graph
+---
+
+User stories
+---
+
+Gherkin scenarios
+---
+
+:::info
+**Find this document incomplete?** Leave a comment!
+:::
+
 ## Welcome to GitHub Pages
 
 此網頁之DNS位置 https://daojun0690.github.io/123/
@@ -6,34 +64,4 @@ You can use the [editor on GitHub](https://github.com/DAOjun0690/123/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DAOjun0690/123/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
